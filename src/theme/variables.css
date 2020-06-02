@@ -1,0 +1,8 @@
+:root {
+  --ion-color-primary: #a22a15;
+  --ion-color-primary-rgb: 162, 42, 21;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #8f2512;
+  --ion-color-primary-tint: #ab3f2c;
+}
